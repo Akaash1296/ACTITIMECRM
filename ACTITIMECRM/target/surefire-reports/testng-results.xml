@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="35746" started-at="2020-08-27T01:50:51Z" finished-at="2020-08-27T01:51:27Z">
+    <groups>
+    </groups>
+    <test name="TestNG" duration-ms="35746" started-at="2020-08-27T01:50:51Z" finished-at="2020-08-27T01:51:27Z">
+      <class name="TestCases.TC002">
+        <test-method status="PASS" signature="openApp()[pri:0, instance:TestCases.TC002@61dc03ce]" name="openApp" is-config="true" duration-ms="6887" started-at="2020-08-27T01:51:10Z" finished-at="2020-08-27T01:51:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method status="PASS" signature="testTC002()[pri:0, instance:TestCases.TC002@61dc03ce]" name="testTC002" duration-ms="8708" started-at="2020-08-27T01:51:17Z" finished-at="2020-08-27T01:51:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTC002 -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:TestCases.TC002@61dc03ce]" name="closeApp" is-config="true" duration-ms="1300" started-at="2020-08-27T01:51:26Z" finished-at="2020-08-27T01:51:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- TestCases.TC002 -->
+      <class name="TestCases.TC001">
+        <test-method status="PASS" signature="openApp()[pri:0, instance:TestCases.TC001@737996a0]" name="openApp" is-config="true" duration-ms="7552" started-at="2020-08-27T01:50:51Z" finished-at="2020-08-27T01:50:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method status="PASS" signature="testTC001()[pri:0, instance:TestCases.TC001@737996a0]" name="testTC001" duration-ms="10110" started-at="2020-08-27T01:50:59Z" finished-at="2020-08-27T01:51:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTC001 -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:TestCases.TC001@737996a0]" name="closeApp" is-config="true" duration-ms="1174" started-at="2020-08-27T01:51:09Z" finished-at="2020-08-27T01:51:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- TestCases.TC001 -->
+    </test> <!-- TestNG -->
+  </suite> <!-- Suite -->
+</testng-results>
